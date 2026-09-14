@@ -1,3 +1,5 @@
+> Legacy standalone edition. Use `../release/` for the current graphical suite, corrected configurations, and ion support. These files are retained for reference.
+
 # TI-84 Evo — Orbital Box Diagram / Hund's Rule Tool
 
 Enter a subshell like `2p4` or `3d6` and get the orbital box diagram filled
