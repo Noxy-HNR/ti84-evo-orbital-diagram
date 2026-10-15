@@ -1,4 +1,4 @@
-> Legacy standalone edition. Use `../release/` for the current graphical suite, corrected configurations, and ion support. These files are retained for reference.
+> **Legacy standalone edition.** For the maintained combined release, corrected configurations, and ion support, see the [TI-84 Evo Chemistry Suite](https://github.com/Noxy-HNR/ti84-evo-chem-suite). This repository remains available as a standalone reference.
 
 # TI-84 Evo — Orbital Box Diagram / Hund's Rule Tool
 
